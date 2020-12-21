@@ -21,3 +21,4 @@ console.log(typeof(someSymbol))
 
 someObject.lastName = 'Arta'
 console.log(someObject)
+console.log(someSymbol)
